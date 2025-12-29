@@ -1,10 +1,10 @@
 📊 Employee Analytics Dashboard (MySQL & Excel)
 
 📌 Project Overview
-
 This project demonstrates an end-to-end **Employee Analytics Dashboard** using **MySQL and Microsoft Excel**. The goal is to extract employee data using SQL, transform it using Power Query, and visualize insights through Pivot Tables and Charts.
 
 🛠 Tools & Technologies
+
 * MySQL
 * SQL (SELECT, GROUP BY, HAVING)
 * Microsoft Excel
