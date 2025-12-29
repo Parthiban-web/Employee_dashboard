@@ -1,22 +1,17 @@
-# 📊 Employee Analytics Dashboard (MySQL & Excel)
+📊 Employee Analytics Dashboard (MySQL & Excel)
 
-## 📌 Project Overview
+📌 Project Overview
 
 This project demonstrates an end-to-end **Employee Analytics Dashboard** using **MySQL and Microsoft Excel**. The goal is to extract employee data using SQL, transform it using Power Query, and visualize insights through Pivot Tables and Charts.
 
----
-
-## 🛠 Tools & Technologies
-
+🛠 Tools & Technologies
 * MySQL
 * SQL (SELECT, GROUP BY, HAVING)
 * Microsoft Excel
 * Power Query
 * Pivot Tables & Pivot Charts
 
----
-
-## 🔄 Workflow
+🔄 Workflow
 
 1. Created an employee database in MySQL
 2. Wrote SQL queries to fetch required data
@@ -24,25 +19,19 @@ This project demonstrates an end-to-end **Employee Analytics Dashboard** using *
 4. Cleaned and transformed data
 5. Built Pivot Tables, Charts, and an interactive dashboard
 
----
-
-## 📈 Key Insights
+📈 Key Insights
 
 * Department-wise employee count
 * Salary analysis by department
 * Performance analysis
 
----
-
-## 🎯 Learning Outcome
+🎯 Learning Outcome
 
 * Practical experience with SQL and MySQL
 * Hands-on data cleaning using Power Query
 * Dashboard creation using Excel
 
----
-
-## 🚀 Future Enhancements
+🚀 Future Enhancements
 
 * Add Power BI version
 * Automate refresh using live database connection
