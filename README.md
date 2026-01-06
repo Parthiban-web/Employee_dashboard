@@ -36,5 +36,3 @@ This project demonstrates an end-to-end **Employee Analytics Dashboard** using *
 * Add Power BI version
 * Automate refresh using live database connection
 * Include advanced SQL queries and KPIs
-
-t README**, **with screenshots section**, or **Power BI version**, tell me 👍
